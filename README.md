@@ -30,8 +30,8 @@
 
 ### Admin Panel 
 - Responsive admin page with some info.
-- 
-### Responsive Design\*\*
+  
+### Responsive Design
 
 - The app should be responsive and work across all devices (mobile, tablet, desktop).
 
